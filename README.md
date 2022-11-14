@@ -3,6 +3,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomota95&layout=compact&theme=transparent")](https://github.com/anuraghazra/github-readme-stats)
 
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 <!--
 **joaomota95/joaomota95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
