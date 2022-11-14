@@ -17,8 +17,9 @@
 </div>
 <br>
 <br>  
-<br>  
-### 📫
+<br> 
+
+ 📫
 <div>
 <a href="https://www.facebook.com/joao.mota.395" target="blank"><img align="center" src="https://img.icons8.com/color/512/facebook-new.png" height="50" /></a>
 <a href="https://www.instagram.com/motaperozini/" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/instagram-new.png" height="50" /></a> 
