@@ -7,7 +7,10 @@
 ### </> ⚡
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/200px-C_Sharp_wordmark.svg.png" height="50">
-<div>
+<img src="https://img.icons8.com/officel/2x/php-logo.png" height="50">/
+<img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png height="50">
+</div>
+  
 ### Minhas redes: 📫
 <div>
 <a href="https://www.facebook.com/joao.mota.395" target="blank"><img align="center" src="https://img.icons8.com/color/512/facebook-new.png" height="50" /></a>
