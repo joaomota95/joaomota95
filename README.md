@@ -4,6 +4,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaomota95&show_icons=true&theme=transparent" width="400">
 </div>
 
+### </> ⚡
+
 ### Minhas redes: 📫
 <div>
 <a href="https://www.facebook.com/joao.mota.395" target="blank"><img align="center" src="https://img.icons8.com/color/512/facebook-new.png" height="50" /></a>
