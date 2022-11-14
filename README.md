@@ -1,5 +1,5 @@
 ### Bem vindo :)👋
-<img src="https://github-readme-stats.vercel.app/api?username=joaomota95&show_icons=true&theme=transparent" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=joaomota95&show_icons=true&theme=transparent" width="400"> [![GitHub Streak](https://streak-stats.demolab.com/?user=joaomota95)](https://git.io/streak-stats)
 
 <!--
 **joaomota95/joaomota95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
