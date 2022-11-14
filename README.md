@@ -12,7 +12,7 @@
 <a href="https://discord.com/channels/motaperozini#7916" target="blank"><img align="center" src="https://img.icons8.com/color/512/discord-logo.png" height="50" /></a> 
 <a href="https://account.xbox.com/pt-BR/Profile?xr=motaperozini" target="blank"><img align="center" src="https://img.icons8.com/color/512/xbox--v1.png" height="50"/></a>
 <a href="https://steamcommunity.com/profiles/76561199387559284/home" target="blank"><img align="center" src="https://img.icons8.com/plasticine/512/steam.png" height="50" /></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-mota-66346bb1/" target="blank"><img align="center" src=" https://icons8.com/icon/GNvM541FBQu7/linkedin-circled.png" height="50" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-mota-66346bb1/" target="blank"><img align="center" src="https://icons8.com/icon/GNvM541FBQu7/linkedin-circled.png" height="50" /></a>
   <div>
 
   
