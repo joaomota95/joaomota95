@@ -7,7 +7,9 @@
 ### Minhas redes: 📫
 <div>
 <a href="https://www.facebook.com/joao.mota.395" target="blank"><img align="center" src="https://img.icons8.com/color/512/facebook-new.png" height="50" /></a>
- 
+<a href="https://www.facebook.com/joao.mota.395" target="blank"><img align="center" src="https://img.icons8.com/color/512/facebook-new.png" height="50" /></a> 
+<a href="https://discord.com/channels/motaperozini#7916" target="blank"><img align="center" src="https://img.icons8.com/color/512/discord-logo.png" height="50" /></a> 
+
 <div>
 
 
