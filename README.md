@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaomota95&show_icons=true&theme=transparent" width="400">
 </div>
 
-### </> ⚡
+### ⚡
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/200px-C_Sharp_wordmark.svg.png" height="50">
 <img src="https://img.icons8.com/officel/2x/php-logo.png" height="50">
@@ -14,10 +14,11 @@
 <img src="https://img.icons8.com/fluency/2x/css3.png" height="50">
 <img src="https://img.icons8.com/fluency/2x/mysql-logo.png" height="50">  
 <img src= "https://img.icons8.com/color/2x/microsoft-sql-server.png" height="50">    
-  
 </div>
-  
-### Minhas redes: 📫
+<br>
+<br>  
+<br>  
+### 📫
 <div>
 <a href="https://www.facebook.com/joao.mota.395" target="blank"><img align="center" src="https://img.icons8.com/color/512/facebook-new.png" height="50" /></a>
 <a href="https://www.instagram.com/motaperozini/" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/instagram-new.png" height="50" /></a> 
@@ -27,7 +28,10 @@
 <a href="https://steamcommunity.com/profiles/76561199387559284/home" target="blank"><img align="center" src="https://img.icons8.com/plasticine/512/steam.png" height="50" /></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-mota-66346bb1/" target="blank"><img align="center" src="https://img.icons8.com/color/512/linkedin-circled.png" height="50" /></a>
   <div>
-
+ <br>
+<br>  
+<br>  
+<img src="https://media.tenor.com/voRmLuBIz3YAAAAC/obrigado-amigo-pica-pau.gif" width="500">
   
 
 <!--
