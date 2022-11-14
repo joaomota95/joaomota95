@@ -1,5 +1,6 @@
 ### Bem vindo :)👋
 <img src="https://github-readme-stats.vercel.app/api?username=joaomota95&show_icons=true&theme=transparent" width="400"> 
+<img src="https://github-readme-stats.vercel.app/api?username=joaomota95&show_icons=true&theme=transparent" width="400"> 
 
 
 <!--
