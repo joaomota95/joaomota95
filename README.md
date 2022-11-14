@@ -1,7 +1,6 @@
 ### Bem vindo :)👋
 <img src="https://github-readme-stats.vercel.app/api?username=joaomota95&show_icons=true&theme=transparent" width="400"> 
-<img src="https://github-readme-stats.vercel.app/api?username=joaomota95&show_icons=true&theme=transparent" width="400"> 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomota95&layout=compact&theme=transparent")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **joaomota95/joaomota95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
